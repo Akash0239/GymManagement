@@ -1,0 +1,83 @@
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Gym-Service.exe.config
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Gym-Service.exe
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Gym-Service.pdb
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.AssemblyReference.cache
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Form1.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Properties.Resources.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.GenerateResource.cache
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.CoreCompileInputs.cache
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.exe
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.pdb
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.NewMember.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.NewStaff.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Equipment.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.ViewEquipment.resources
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\BouncyCastle.Crypto.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Hash.xxHash.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\MySql.Data.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Buffers.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Memory.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Numerics.Vectors.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Ubiety.Dns.Core.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Zstandard.Net.dll
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.pdb
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\K4os.Hash.xxHash.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\MySql.Data.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Buffers.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Memory.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Numerics.Vectors.xml
+E:\C# Projects\Gym-Service\Gym-Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.exe.config
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.CopyComplete
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.SearchMember.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.DeleteMember.resources
+E:\C# Projects\Gym-Service\Gym-Service\obj\Debug\Gym_Service.LogIn.resources
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Gym-Service.exe.config
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Gym-Service.exe
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Gym-Service.pdb
+G:\Study\Gym-Service\Gym-Service\bin\Debug\BouncyCastle.Crypto.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Hash.xxHash.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\MySql.Data.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Buffers.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Memory.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Numerics.Vectors.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Ubiety.Dns.Core.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Zstandard.Net.dll
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.pdb
+G:\Study\Gym-Service\Gym-Service\bin\Debug\Google.Protobuf.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\K4os.Hash.xxHash.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\MySql.Data.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Buffers.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Memory.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Numerics.Vectors.xml
+G:\Study\Gym-Service\Gym-Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.AssemblyReference.cache
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.SuggestedBindingRedirects.cache
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.exe.config
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.DeleteMember.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Equipment.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Form1.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.LogIn.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.NewMember.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.NewStaff.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.Properties.Resources.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.SearchMember.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym_Service.ViewEquipment.resources
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.GenerateResource.cache
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.CoreCompileInputs.cache
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.csproj.CopyComplete
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.exe
+G:\Study\Gym-Service\Gym-Service\obj\Debug\Gym-Service.pdb
